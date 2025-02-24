@@ -29,7 +29,6 @@ const Header = () => {
           <span className='header__optionLineOne'>Your</span>
           <span className='header__optionLineTwo'> Prime</span>
         </div>
-
         <div className='header__optionBasket'>
           <AddShoppingCartIcon />
           <span className='header__optionLineTwo header__basketCount'>0</span>
